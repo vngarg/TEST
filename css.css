@@ -445,7 +445,7 @@
       padding-bottom: 100px;
       padding-left: 0;
       position: fixed;
-      top: 10px;
+      top: -50px;
       left: 8vw;
       width: calc(77vw - 60px);
       max-height: calc(100% - 120px);
